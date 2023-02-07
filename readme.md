@@ -17,9 +17,9 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+			<a href="https://www.producthunt.com/posts/any-text">Any Text</a>
 			<br>
-			<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+			<sup>Put any text on your iPhone's Lock Screen</sup>
 		</h2>
 	</div>
 	<br>
@@ -68,15 +68,6 @@
 			<b>Strapi is the leading open-source headless CMS.</b>
 			<div>
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
-			</div>
-		</a>
-		<br>
-		<a href="https://oss.capital">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
-			</div>
-			<div>
-				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
 			</div>
 		</a>
 		<br>
@@ -554,6 +545,7 @@
 - [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
